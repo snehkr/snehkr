@@ -54,11 +54,11 @@
 ## Top Languages :
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehkr&show_icons=true&locale=en&layout=compact" alt="snehkr" /></p>
 
-## Stats :
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snehkr&show_icons=true&locale=en" alt="snehkr" /></p>
-
 ## Streak Stats :
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehkr&" alt="snehkr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=snehkr&theme=gruvbox_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD0000" alt="snehkr" /></p>
+
+## GitHub Stats :
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snehkr&show_icons=true&locale=en" alt="snehkr" /></p>
 
 ## Achievements :
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snehkr" alt="snehkr" /></a> </p>
