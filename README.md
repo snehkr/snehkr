@@ -94,7 +94,7 @@
 </p>
 
 
-<a href="https://github.com/missemily2022"><img alt="Emily's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=snehkr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/snehkr"><img alt="Sneh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=snehkr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
