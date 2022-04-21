@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sneh Kr</h1>
+<p align="center">
+<img src="https://ik.imagekit.io/snehkr/snehkrtext_Gjvw3QhLC.png" height="100px">
+</p>	
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=snehkr&label=Profile%20views&color=0e75b6&style=flat" alt="snehkr" /> </p>
 <h3 align="center">A passionate frontend developer from India</h3>
 
