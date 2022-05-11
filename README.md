@@ -32,7 +32,9 @@
 ![snake gif](https://raw.githubusercontent.com/snehkr/snehkr/main/snehkr-grid-snake.svg)
 
 
-[![Miss Emily's GitHub stats](https://github-readme-stats.vercel.app/api?username=snehkr&theme=aura&count_private=true&show_icons=true&cache_seconds=900)](https://github.com/snehkr/)
+[![SnehKr's GitHub stats](https://github-readme-stats.vercel.app/api?username=snehkr&theme=aura&count_private=true&show_icons=true&cache_seconds=900)](https://github.com/snehkr/)
+
+
 
 <details>
   <summary>GitHub Achievements</summary>
