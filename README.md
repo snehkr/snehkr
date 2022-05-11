@@ -89,7 +89,7 @@
 
 
 
-### Contribution Graph:
+### Contribution Graph :
 
 <p align="center">
   <a href="https://github.com/snehkr">
@@ -100,5 +100,11 @@
 
 <a href="https://github.com/snehkr"><img alt="Sneh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=snehkr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+### Spotify History :
 
+<div>
+  <a href="https://github.com/snehkr" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317asspxczfip34rkeedufpidgmu&width=500&count=6&unique=1"/>
+  </a>
+</div>
 
