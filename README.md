@@ -9,13 +9,13 @@
 ```python
  class WhoAmI:
  	user = 'Sneh Kr'
-		current_edu = "B.Tech CSE"
-		hobbies = [
-			    'Coding',
-			    'Drawing Sketch',
-			    'Watching Sci-Fi Movies'
-		            'Being up all Night chasing that ONE BUG...'
-			  ]
+	current_edu = "B.Tech CSE"
+	obbies = [
+		    'Coding',
+		    'Drawing Sketch',
+		    'Watching Sci-Fi Movies'
+	            'Being up all Night chasing that ONE BUG...'
+		  ]
 	
 	def getCity():
 		return Muzaffarpur_India()
