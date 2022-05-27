@@ -9,8 +9,8 @@
 ```python
  class WhoAmI:
  	user = 'Sneh Kr'
-	current_edu = "B.Tech CSE"
-	obbies = [
+	current_Edu = 'B.Tech CSE'
+	hobbies = [
 		    'Coding',
 		    'Drawing Sketch',
 		    'Watching Sci-Fi Movies'
@@ -25,6 +25,9 @@
 		CreateAPIs()
 		FinishMyPythonProject()
 
+	def Goals():
+		return BecomeAEthicalHacker()
+	
 	
 ```
   
