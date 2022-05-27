@@ -9,12 +9,12 @@
 ```python
  class WhoAmI:
  	user = 'Sneh Kr'
-		current_edu = "Joining Soon"
+		current_edu = "B.Tech CSE"
 		hobbies = [
-				'Coding',
-				'Drawing Sketch',
-				'Watching Sci-Fi Movies'
-				'Being up all Night chasing that ONE BUG...'
+			    'Coding',
+			    'Drawing Sketch',
+			    'Watching Sci-Fi Movies'
+		            'Being up all Night chasing that ONE BUG...'
 			  ]
 	
 	def getCity():
@@ -23,7 +23,7 @@
 	def Ambitions():
 		LearnPHP()
 		CreateAPIs()
-		FinishMyNovel()
+		FinishMyPythonProject()
 
 	
 ```
