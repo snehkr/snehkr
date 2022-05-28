@@ -1,7 +1,9 @@
-<p align="center">
+<a href="https://snehkr.netlify.app/"><p align="center">
 <img src="https://ik.imagekit.io/snehkr/snehkrtext_Gjvw3QhLC.png" height="100px">
-</p>	
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=snehkr&label=Profile%20views&color=0e75b6&style=flat" alt="snehkr" /> </p>
+</p></a>
+<a href="https://snehkr.netlify.app/"><p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=snehkr&label=Profile%20views&color=0e75b6&style=flat" alt="snehkr" /> 
+</p></a>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 ## Who am I?
@@ -32,10 +34,10 @@
 ```
   
 
-![snake gif](https://raw.githubusercontent.com/snehkr/snehkr/main/snehkr-grid-snake.svg)
+[![snake gif](https://raw.githubusercontent.com/snehkr/snehkr/main/snehkr-grid-snake.svg)](https://snehkr.netlify.app/)
 
 
-[![SnehKr's GitHub stats](https://github-readme-stats.vercel.app/api?username=snehkr&theme=aura&count_private=true&show_icons=true&cache_seconds=900)](https://github.com/snehkr/)
+[![SnehKr's GitHub stats](https://github-readme-stats.vercel.app/api?username=snehkr&theme=aura&count_private=true&show_icons=true&cache_seconds=900)](https://snehkr.netlify.app/)
 
 
 
@@ -95,18 +97,20 @@
 ### Contribution Graph :
 
 <p align="center">
-  <a href="https://github.com/snehkr">
+  <a href="https://snehkr.netlify.app">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=snehkr&theme=gruvbox_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD0000"/>
   </a>
 </p>
 
 
-<a href="https://github.com/snehkr"><img alt="Sneh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=snehkr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://snehkr.netlify.app">
+<img alt="Sneh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=snehkr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+</a>
 
 ### Spotify History :
 
 <div>
-  <a href="https://github.com/snehkr" target="_blank">
+  <a href="https://snehkr.netlify.app">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=317asspxczfip34rkeedufpidgmu&width=500&count=6&unique=1"/>
   </a>
 </div>
