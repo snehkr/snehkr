@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=snehkr&label=Profile%20views&color=0e75b6&style=flat" alt="snehkr" /> 
 </p></a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=30&pause=2000&color=F7B930&center=true&width=835&lines=A+passionate+frontend+developer+from+India)](https://github.com/snehkr)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=30&pause=2000&color=F7B930&center=true&width=835&lines=A+passionate+backend+developer+from+India)](https://github.com/snehkr)
 
 ## Who am I?
 
