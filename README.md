@@ -98,20 +98,20 @@
 
 <p align="center">
   <a href="https://snehkr.netlify.app">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=snehkr&theme=gruvbox_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD0000"/>
+    <img src="https://streak-stats.demolab.com?user=snehkr&theme=gruvbox_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD0000"/>
   </a>
 </p>
 
 
 <a href="https://snehkr.netlify.app">
-<img alt="Sneh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=snehkr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="Sneh's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=snehkr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </a>
 
 ### Spotify History :
 
 <div>
   <a href="https://snehkr.netlify.app">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317asspxczfip34rkeedufpidgmu&width=500&count=6&unique=1"/>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317asspxczfip34rkeedufpidgmu&width=500&count=5&unique=1"/>
   </a>
 </div>
 
