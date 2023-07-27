@@ -20,15 +20,16 @@ class WhoAmI:
 		    'Coding',
 		    'Drawing Sketch',
 		    'Watching Sci-Fi Movies',
-	      'Being up all Night chasing that ONE BUG...'
+                    'Being up all Night chasing that ONE BUG...'
 		  ]
 
 	def getCity():
-		return Muzaffarpur_India()
+		return Jaipur_India()
 
 	def Ambitions():
-		LearnPHP()
-		CreateAPIs()
+		LearnPHP_&_DB()
+		WorkingOnBashScript()
+		CreateBackendAPIs()
 		FinishMyPythonProject()
 
 	def Goals():
