@@ -1,6 +1,6 @@
 <a href="https://snehkr.netlify.app/">
 <p align="center">
-  <img src="https://ik.imagekit.io/snehkr/snehkrtext_Gjvw3QhLC.png" height="100px" alt="snehkr">
+  <img src="https://drive.snehkr.workers.dev/0:/IMG/SNEH-LOGO.png" height="200px" alt="snehkr">
 </p></a>
 
 <a href="https://snehkr.netlify.app/">
@@ -8,7 +8,7 @@
   <img src="https://git-visitors.vercel.app/api/snehkr" alt="snehkr">
 </p></a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=30&pause=2000&color=F7B930&center=true&width=1035&lines=A+passionate+backend+developer+from+India)](https://github.com/snehkr)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=25&pause=2000&color=23a2f1&center=true&width=1035&lines=A+PASSIONATE+BACKEND+DEVELOPER+FROM+INDIA)](https://github.com/snehkr)
 
 ## Who am I?
 
@@ -18,8 +18,8 @@ class WhoAmI:
 	current_Edu = 'B.Tech CSE'
 	hobbies = [
 		    'Coding',
-		    'Drawing Sketch',
-		    'Watching Sci-Fi Movies',
+		    'Debugging APIS',
+		    'Watching Sci-Fi Series',
                     'Being up all Night chasing that ONE BUG...'
 		  ]
 
