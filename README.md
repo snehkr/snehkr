@@ -1,9 +1,9 @@
-<a href="https://snehkr.netlify.app/">
+<a href="https://snehkr.in">
 <p align="center">
   <img src="https://drive.snehkr.workers.dev/0:/IMG/SNEH-LOGO.png" height="200px" alt="snehkr">
 </p></a>
 
-<a href="https://snehkr.netlify.app/">
+<a href="https://snehkr.in">
 <p align="center">
   <img src="https://git-visitors.vercel.app/api/snehkr" alt="snehkr">
 </p></a>
@@ -38,9 +38,9 @@ class WhoAmI:
 
 ```
 
-[![snake gif](https://drive.snehkr.workers.dev/0:/snehkr-grid-snake.svg)](https://snehkr.netlify.app/)
+[![snake gif](https://drive.snehkr.workers.dev/0:/snehkr-grid-snake.svg)](https://snehkr.in)
 
-[![SnehKr's GitHub stats](https://github-readme-stats.vercel.app/api?username=snehkr&theme=aura&count_private=true&show_icons=true&cache_seconds=900)](https://snehkr.netlify.app/)
+[![SnehKr's GitHub stats](https://github-readme-stats.vercel.app/api?username=snehkr&theme=aura&count_private=true&show_icons=true&cache_seconds=900)](https://snehkr.in)
 
 <details>
   <summary>GitHub Achievements</summary>
@@ -123,19 +123,19 @@ class WhoAmI:
 ### Contribution Graph :
 
 <p align="center">
-  <a href="https://snehkr.netlify.app">
+  <a href="https://snehkr.in">
     <img src="https://streak-stats.demolab.com?user=snehkr&theme=gruvbox_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD0000"/>
   </a>
 </p>
 
-<a href="https://snehkr.netlify.app">
+<a href="https://snehkr.in">
 <img alt="Sneh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=snehkr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </a>
 
 ### Spotify History :
 
 <div>
-  <a href="https://snehkr.netlify.app">
+  <a href="https://snehkr.in">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=317asspxczfip34rkeedufpidgmu&width=500&count=5&unique=1"/>
   </a>
 </div>
