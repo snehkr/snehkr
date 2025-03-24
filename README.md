@@ -124,7 +124,7 @@ class WhoAmI:
 
 <p align="center">
   <a href="https://snehkr.in">
-    <img src="https://streak-stats.demolab.com?user=snehkr&theme=gruvbox_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD0000"/>
+    <img src="https://github-readme-streak-stats-gold-sigma.vercel.app?user=snehkr&theme=gruvbox_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD0000"/>
   </a>
 </p>
 
