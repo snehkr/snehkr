@@ -48,7 +48,7 @@
 ## 🧠 Ethical Hacker Badges
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Attack_Surface-Minimized-00ff99?style=for-the-badge&logo=hackthebox"/>
+    <img src="https://img.shields.io/badge/Attack_Surface-Minimized-00ff?style=for-the-badge&logo=hackthebox"/>
     <img src="https://img.shields.io/badge/Pentesting-In_Progress-ff0066?style=for-the-badge&logo=kalilinux"/>
     <img src="https://img.shields.io/badge/API%20Security-Active-blue?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Linux%20User-Arch%2FKali-8080ff?style=for-the-badge&logo=linux"/>
@@ -96,7 +96,7 @@
     <a href="https://telegram.dog/snehkr"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
   </p>
 
-## 🐧 Profile
+## 🐧 Mission
 
 ```bash
 ┌──(sneh㉿redteam)-[~/mission]
