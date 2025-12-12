@@ -1,141 +1,113 @@
-<a href="https://snehkr.in">
-<p align="center">
-  <img src="https://drive.snehkr.workers.dev/0:/IMG/SNEH-LOGO.png" height="200px" alt="snehkr">
-</p></a>
+  <!-- =======================
+        S N E H K R — README
+    Cyberpunk | Ethical Hacker
+  ========================== -->
 
-<a href="https://snehkr.in">
-<p align="center">
-  <img src="https://git-visitors.vercel.app/api/snehkr" alt="snehkr">
-</p></a>
+  <p align="center">
+    <img src="https://drive.snehkr.workers.dev/0:/IMG/SNEH-LOGO.png" height="160" alt="animated banner"/>
+  </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=25&pause=2000&color=23a2f1&center=true&width=1035&lines=A+PASSIONATE+BACKEND+DEVELOPER+FROM+INDIA)](https://github.com/snehkr)
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=2000&color=00FF9F&center=true&vCenter=true&width=1000&lines=%3E+Backend+Developer+%7C+API+Engineer+%7C+Cybersecurity+Learner;%3E+Digital+Forensics+%26+Automation+Enthusiast;%3E+Breaking+Things+To+Fix+Them...;%3E+Living+In+Terminal+Mode" />
+  </p>
 
-## Who am I?
+  <p align="center">
+    <img src="https://git-visitors.vercel.app/api/snehkr" alt="Visitor Logs"/>
+  </p>
+
+## 🧑‍💻 **Who Am I?**
 
 ```bash
-class WhoAmI:
- 	user = 'Sneh Kr'
-	current_Edu = 'B.Tech CSE'
-	hobbies = [
-		    'Coding',
-		    'Debugging APIS',
-		    'Watching Sci-Fi Series',
-                    'Being up all Night chasing that ONE BUG...'
-		  ]
+┌──(sneh㉿terminal)-[~/identity]
+└─$ whoami
 
-	def getCity():
-		return Jaipur_India()
+"░ S N E H   K R ░"
 
-	def Ambitions():
-		LearnPHP_&_DB()
-		WorkingOnBashScript()
-		CreateBackendAPIs()
-		FinishMyPythonProject()
+┌──(sneh㉿terminal)-[~/skills]
+└─$ cat profile.txt
 
-	def Goals():
-		return BecomeAEthicalHacker()
+- API reconnaissance, enumeration & hardening
+- Threat modeling & vulnerability analysis
+- Secure backend architecture & authentication flows
+- Red-team style debugging & exploit simulation
 
+┌──(sneh㉿terminal)-[~/mission]
+└─$ echo "Objectives loaded."
+
+✔ Deepening expertise in Pentesting & Web App Security
+✔ Expanding RAKSHANETRA into a proactive defense platform
+✔ Building automated reconnaissance & detection tools in Python
+✔ Enhancing skills in digital forensics & threat intelligence
 
 ```
 
-[![snake gif](https://drive.snehkr.workers.dev/0:/snehkr-grid-snake.svg)](https://snehkr.in)
+  <p align="center">
+    <img src="https://drive.snehkr.workers.dev/0:/snehkr-grid-snake.svg" />
+  </p>
 
-[![SnehKr's GitHub stats](https://github-readme-stats.vercel.app/api?username=snehkr&theme=aura&count_private=true&show_icons=true&cache_seconds=900)](https://snehkr.in)
+## 🧠 Ethical Hacker Badges
 
-<details>
-  <summary>GitHub Achievements</summary>
-  <br/>
-<p align="left"> <a href="https://github.com/snehkr"><img src="https://github-profile-trophy.vercel.app/?username=snehkr" alt="snehkr" /></a> </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Attack_Surface-Minimized-00ff99?style=for-the-badge&logo=hackthebox"/>
+    <img src="https://img.shields.io/badge/Pentesting-In_Progress-ff0066?style=for-the-badge&logo=kalilinux"/>
+    <img src="https://img.shields.io/badge/API%20Security-Active-blue?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Linux%20User-Arch%2FKali-8080ff?style=for-the-badge&logo=linux"/>
+  </p>
 
-</details>
-<details>
-    <summary>Top Languages</summary>
-    <br/>
+## ⚡ Tech Stack
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehkr)](https://github.com/snehkr)
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=aws,arduino,azure,bash,bitbucket,bootstrap,c,cpp,css,cloudflare,codepen,dart,debian,discord,discordbots,docker,expressjs,fastapi,firebase,flask,flutter,gcp,git,gitlab,github,githubactions,html,heroku,htmx,jquery,javascript,kali,kotlin,kubernetes,linux,markdown,materialui,mongodb,mysql,netlify,nodejs,npm,php,photoshop,redhat,raspberrypi,python,pycharm,vercel,vscode,vim,ubuntu,typescript,threejs,tailwindcss,windows,workers&theme=dark&perline=10" />
+  </p>
 
-</details>
+## 📊 GitHub Stats
 
-<details>
-    <summary>Languages</summary>
-    <br/>
-<p align="left">
+  <p align="center">
+    <img src="https://github-readme-streak-stats-9htk.vercel.app/api?user=snehkr&theme=gruvbox-duo&show_icons=true&hide_border=true" />
+  </p>
 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://developer.android.com/static/studio/images/new-studio-logo-1.png" alt="android" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/AmazonWebservices_Logo.svg/250px-AmazonWebservices_Logo.svg.png" alt="aws" width="120" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/250px-Bash_Logo_Colored.svg.png" alt="bash" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/250px-Bootstrap_logo.svg.png" alt="bootstrap" width="50" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/250px-C_Programming_Language.svg.png" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/250px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="css3" width="40" height="40"/> </a>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snehkr&theme=radical" />
+  </p>
 
-</p>
-</details>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=snehkr&theme=radical" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snehkr&theme=radical" />
+  </p>
 
-<details>
-    <summary>Connect with me</summary>
-    <br/>
-<p align="left">
-<a href="https://codepen.io/snehkr" target="blank"><img align="center" src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Black-Large.png" alt="snehkr" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/snehkr" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/250px-LinkedIn_icon_circle.svg.png" alt="snehkr" height="40" width="40" /></a>
-<a href="https://fb.com/krsneh" target="blank"><img align="center" src="https://seeklogo.com/images/F/facebook-icon-logo-819DD0A07B-seeklogo.com.png" alt="krsneh" height="40" width="40" /></a>
-<a href="https://instagram.com/snehkr_" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png" alt="snehkr_" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/snehkr" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/250px-HackerRank_Icon-1000px.png" alt="snehkr" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/snehkr" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="snehkr" height="40" width="40" /></a>
-<a href="https://www.hackerearth.com/@snehkr" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="@snehkr" height="40" width="40" /></a>
-</p>
+## 🔥 Github Activity Graph
 
-</details>
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehkr&theme=github-compact&hide_border=true&area=true" />
+  </p>
 
-<details>
-    <summary>Tools Used</summary>
-    <br/>
-<p>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="docker" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://aglowiditsolutions.com/wp-content/uploads/2018/12/ExpressJS.png" alt="express" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/250px-JavaScript-logo.png" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://images.vexels.com/media/users/3/140692/isolated/lists/72d1f12edf758d24f5b6db73bac4f297-linux-logo.png" alt="linux" width="40" height="40"/> </a>
+## 🎧 Spotify Feed
 
-</p>
-</details>
+  <p align="center">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317asspxczfip34rkeedufpidgmu&width=800&count=5&unique=1" />
+  </p>
 
-<details>
-    <summary>Servers & Hosts</summary>
-    <br/>
-<p> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="mysql" width="60" height="40"/> </a> 
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://linuxscriptshub.com/wp-content/uploads/2017/04/Nginx-Logo.png" alt="nginx" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/541/541586.png" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/250px-Webysther_20160423_-_Elephpant.svg.png" alt="php" width="50" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919852.png" alt="python" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" alt="react" width="40" height="40"/> </a> 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-</p>
-</details>
+## 🔗 Connect With Me
 
-### Contribution Graph :
+  <p align="center">
+    <a href="https://linkedin.com/in/snehkr"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+    <a href="https://codepen.io/snehkr"><img src="https://skillicons.dev/icons?i=codepen" width="45"/></a>
+    <a href="https://leetcode.com/u/snehkr"><img src="https://skillicons.dev/icons?i=htmx" width="45"/></a>
+    <a href="https://telegram.dog/snehkr"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
+  </p>
 
-<p align="center">
-  <a href="https://snehkr.in">
-    <img src="https://github-readme-streak-stats-gold-sigma.vercel.app?user=snehkr&theme=gruvbox_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD0000"/>
-  </a>
-</p>
+## 🐧 Profile
 
-<a href="https://snehkr.in">
-<img alt="Sneh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=snehkr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</a>
+```bash
+┌──(sneh㉿redteam)-[~/mission]
+└─$ printf "Integrity. Awareness. Persistence.\nElevate your security mindset."
 
-### Spotify History :
+Integrity. Awareness. Persistence.
+Elevate your security mindset.
 
-<div>
-  <a href="https://snehkr.in">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317asspxczfip34rkeedufpidgmu&width=500&count=5&unique=1"/>
-  </a>
-</div>
+```
+
+  <p align="center">
+    <b>“Security is not a product — it's a mindset sharpened every single day.”</b>
+    <br/>💖 Sneh Kr
+  </p>
