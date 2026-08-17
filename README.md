@@ -8,8 +8,8 @@
   </p>
 
   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=2000&color=00FF9F&center=true&vCenter=true&width=1000&lines=%3E+Full+Stack+Developer+%7C+Backend+Architect+%7C+API+Security+Researcher;%3E+Ethical+Hacker+%7C+Digital+Forensics+%7C+Threat+Analyst;%3E+Building+Scalable+Apps+%26+Securing+Them;%3E+Breaking+Things+To+Fix+Them...;%3E+Living+In+Terminal+Mode" />
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=2000&color=00FF9F&center=true&vCenter=true&width=1000&lines=%3E+Full+Stack+Engineer+%7C+Backend+Architect+%7C+Security+Researcher;%3E+Designing+Scalable+Systems+%26+Secure+APIs;%3E+Building+Products+That+Solve+Real+Problems;%3E+Exploring+Web+Security%2C+Threat+Analysis+%26+Digital+Forensics;%3E+Build.+Analyze.+Secure.+Improve." />
+</p>
 
   <p align="center">
     <img src="https://git-visitors.vercel.app/api/snehkr" alt="Visitor Logs"/>
@@ -126,7 +126,7 @@ Telegram-powered cloud storage & file delivery system
 ## 🎧 Spotify Feed
 
   <p align="center">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317asspxczfip34rkeedufpidgmu&width=800&count=5&unique=1" />
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=317asspxczfip34rkeedufpidgmu&width=800&count=6&radius=28&unique=1&duration=1&album=1&profile=footer-right" />
   </p>
 
 ## 📜 Certifications
